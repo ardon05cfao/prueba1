@@ -1,0 +1,129 @@
+
+:root{
+	--bg-body: #F8F9FB;
+	--color-azul: #00ACB2;
+}
+body{
+	font-family: 'Segoe UI';
+	font-size: 14px;
+	background-color: var(--bg-body);
+	color: #333;
+}
+h1,h2,h3,h4,h5,h6{
+	color: #333;
+}
+
+
+
+header{
+	background-color: var(--bg-body);
+	/*box-shadow: 0px 0px 5px 3px #eee;*/
+}
+
+footer{
+	background-color: var(--bg-body);
+	color: #333;
+	padding: 30px 0;
+	text-align: center;
+}
+
+#primero{	
+background-color: #333;
+}
+
+
+#primero h1{
+	font-weight: 700;
+	color: aliceblue;
+	
+}
+
+#primero h2{
+	font-weight: 300;
+	color: aliceblue;
+	margin: 20px 0;margin: 10px 0 0px;
+}
+
+#primero p{
+	color: aliceblue;
+	margin: 20px 0;margin: 30px 0 100px;
+}
+
+#primero a{
+display: block;
+text-decoration: none;
+margin: 100px 0;
+font-weight: 700;
+background-color: aliceblue;
+color: #00ACB2;
+padding: 10px 30px;
+border-radius: 5px;
+width: 130px
+}
+#segundo{
+	text-align: center;
+	margin: 20px 0;margin: 40px 0;
+}
+
+#segundo h3{
+	font-size: 20px;
+	color: #00ACB2;
+	font-weight: 400;
+}
+
+#tercero a{
+display: block;
+text-decoration: none;
+margin: 100px 0;
+font-weight: 700;
+background-color: brown;
+color: #FFFFFF;
+padding: 15px 30px;
+border-radius: 10px;
+width: 200px;	
+}
+
+#tercero img{
+	margin: 100px 0;
+}
+
+#tercero{
+	background-color: #333;
+	margin: 20px 0;margin: 40px 0;
+}
+
+#tercero h2{
+	color: #FFFFFF;
+	margin: 100px 0;
+	font-weight: 300;
+}
+
+#quinto{
+	text-align: center;
+	margin: 50px 0;
+	background-color: #333;
+}
+
+#quinto h3{
+	color: aliceblue;
+	margin: 50px 0;
+		
+}
+
+#quinto p{
+	font-size: 13px;
+	margin: 50px 0;
+	color: aliceblue
+}
+#quinto h4{
+color: aliceblue;
+margin: 0px 300;
+}
+
+
+
+
+
+
+
+
